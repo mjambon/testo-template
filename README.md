@@ -24,4 +24,4 @@ Commands you should try:
 See also:
 
 * [Documentation](https://testocaml.net/)
-* [Testo project on GitHub](https://github.com/semgrep/testo)
+* [Testo project on GitHub](https://github.com/mjambon/testo)
